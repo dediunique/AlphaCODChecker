@@ -1,2 +1,28 @@
 # AlphaCODChecker
 The one and only free COD Activision Checker!
+- With in-house Captcha Solving Service (0.6 per 1K Success Solves, so not requests! You won't find cheaper!)
+- With Mail Valid check before attempting Captcha
+- With MW1/WZ1/CW/VG output
+- Also checks for COD Points on accounts
+- Sorts on Levels/CP/Kills on the order its written.
+
+We offer this free checker to anyone in our community and have decided to release it in the public on GitHub!
+
+Requirements:
+- Python 3.10/3.11
+- Some Python packages like requests, bs4, uuid. (We will provide an requirements.txt)
+- Windows 10/11
+- Proxies IP:Port (IPRoyal, Webshare, Proxyscrape, pretty much any provider with IP:Port)
+
+Setup Guide:
+- Install Python 3.10/3.11
+- Download Loader
+- Join our Discord to get an key and Solver username/password
+- Enter the key, the loader will now create the Files/Folders it requires. The loader will close
+- Load your proxies in proxies.txt
+- Load your combo's in Combo's folder
+- Ready to go, choose threads on start and let's go!
+
+Get proxies here:
+Get the Premium ones, 1K for 24$
+https://proxyscrape.com/home?ref=mji3ngu 
