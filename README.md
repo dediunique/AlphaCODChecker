@@ -1,6 +1,6 @@
 # AlphaCODChecker
-Discord: https://discord.gg/tBNPvKJgAK
-Website: https://alphabulk.sellpass.io/products (Over 17K products sold, countless reviews in Discord/Website!)
+- Discord: https://discord.gg/tBNPvKJgAK
+- Website: https://alphabulk.sellpass.io/products (Over 17K products sold, countless reviews in Discord/Website!)
 
 The one and only free COD Activision Checker!
 - With in-house Captcha Solving Service (0.6 per 1K Success Solves, so not requests! You won't find cheaper!)
